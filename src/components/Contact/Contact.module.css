@@ -1,0 +1,22 @@
+.wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 25px;
+}
+
+.content {
+  font-size: 20px;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.btn {
+  background-color: #f9a583;
+  border-color: transparent;
+  border-radius: 5px;
+  width: 100px;
+  height: 25px;
+  font-size: 18px;
+  font-weight: 700;
+}
